@@ -1,0 +1,18 @@
+variavel,descricao,tipo,subtipo
+Age,idade do indivíduo,quantitativa,continua
+Gender,gênero do indivíduo,qualitativa,nominal
+Height,altura do indivíduo,quantitativa,continua
+Weight,peso do indivíduo,quantitativa,continua
+CALC,frequencia de consumo de alcool do indivíduo,qualitativa,ordinal
+FAVC,se o indivíduo realiza o consumo de comidas com alto índice calórico,qualitativa,nominal
+FCVC,frequencia de consumação de vegetais do indivíduo,quantitativa,discreta
+NCP,número de refeições principais do indivídio,quantitativa,discreta
+SCC,se o indivíduo realiza a monitoração das calorias consumidas diariamente,qualitativa,nominal
+SMOKE,se o individuo é fumante,qualitativa,nominal
+CH2O,quantidade de água ingerida diariamente pelo indivíduo,quantitativa,continua
+family_history_with_overweight,se o indivíduo possui histórico familiar com sobrepeso,qualitativa,nominal
+FAF,a frequencia ao qual o indivíduo pratica atividades físicas,quantitativa,discreta
+TUE,"quando tempo o indivíduo passa utitilizando dispositvos tecnológicos, como celulares e outros",quantitativa,continua
+CAEC,frequência de consumo de alimentos entre refeições,qualitativa,ordinal
+MTRANS,qual meio de transporte do indivíduo,qualitativa,nominal
+NObeyesdad,"nível de obesidade do indivíduo com base no seu IMC, Índice de Massa Corporal ou também BMI, Body Mass Index",qualitativa,ordinal
