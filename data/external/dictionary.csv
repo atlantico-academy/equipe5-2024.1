@@ -1,0 +1,18 @@
+variavel,descricao,tipo,subtipo
+Age,Idade do participante	,quantitativa,contínua
+Gender,Gênero do participante,qualitativa,nominal
+Height,Altura do participante (em metros),quantitativa,contínua
+Weight,Peso do participante (em quilogramas),quantitativa,contínua
+CALC,Consumo de calorias,qualitativa,nominal
+FAVC,Consumo de frutas e vegetais,qualitativa,nominal
+FCVC,Consumo de alimentos com alto teor de fibra,quantitativa,discreta
+NCP,Número de refeições principais,quantitativa,discreta
+SCC,Consumo de alimentos com alto teor de gordura,qualitativa,nominal
+SMOKE,Tabagismo,qualitativa,nominal
+CH2O,Consumo de água,quantitativa,contínua
+family_history_with_overweight,Histórico familiar de sobrepeso,qualitativa,nominal
+FAF,Atividade física (frequência),quantitativa,contínua
+TUE,Tempo gasto em atividades sedentárias,quantitativa,contínua
+CAEC,Consumo de comida entre as refeições,qualitativa,nominal
+MTRANS,Meio de transporte,qualitativa,nominal
+NObeyesdad,Classificação de obesidade,qualitativa,ordinal
