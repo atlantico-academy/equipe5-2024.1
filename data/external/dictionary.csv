@@ -1,18 +1,18 @@
 variavel,descricao,tipo,subtipo
-Age,Idade do participante	,quantitativa,contínua
-Gender,Gênero do participante,qualitativa,nominal
-Height,Altura do participante (em metros),quantitativa,contínua
-Weight,Peso do participante (em quilogramas),quantitativa,contínua
-CALC,Consumo de calorias,qualitativa,nominal
-FAVC,Consumo de frutas e vegetais,qualitativa,nominal
-FCVC,Consumo de alimentos com alto teor de fibra,quantitativa,discreta
-NCP,Número de refeições principais,quantitativa,discreta
-SCC,Consumo de alimentos com alto teor de gordura,qualitativa,nominal
-SMOKE,Tabagismo,qualitativa,nominal
-CH2O,Consumo de água,quantitativa,contínua
+Age,Idade do indíviduo,quantitativa,contínua
+Gender,Gênero do indíviduo (male/female),qualitativa,nominal
+Height,Altura do indíviduo (em metros),quantitativa,contínua
+Weight,Peso do indíviduo (em quilogramas),quantitativa,contínua
+CALC,Frequência do consumo de álcool do indíviduo,qualitativa,nominal
+FAVC,Frequência do consumo de alimentos com alto índice calórico,qualitativa,nominal
+FCVC,Frequencia do consumo de vegetais do indivíduo,quantitativa,discreta
+NCP,Número de refeições principais do indivíduo,quantitativa,discreta
+SCC,Se o indivíduo realiza monitoração das calorias consumidas diariamentes,qualitativa,nominal
+SMOKE,Se o indivíduo é fumante,qualitativa,nominal
+CH2O,Consumo de água do indivíduo (em litros),quantitativa,contínua
 family_history_with_overweight,Histórico familiar de sobrepeso,qualitativa,nominal
-FAF,Atividade física (frequência),quantitativa,contínua
-TUE,Tempo gasto em atividades sedentárias,quantitativa,contínua
-CAEC,Consumo de comida entre as refeições,qualitativa,nominal
-MTRANS,Meio de transporte,qualitativa,nominal
+FAF,Tempo gasto em atividades físicas (em horas),quantitativa,contínua
+TUE,"Tempo gasto em dispositivos tecnológicos, como celulares e outros (em horas)",quantitativa,contínua
+CAEC,"Consumo de comida entre as refeições (café da manhã, almoço, jantar)",qualitativa,nominal
+MTRANS,Meio de transporte usado regularmente,qualitativa,nominal
 NObeyesdad,Classificação de obesidade,qualitativa,ordinal
